@@ -1,5 +1,5 @@
-token=NTAwMjMxMTA2ODg5NjQ2MDgw.DqH0EA.UObYO7c7Snny6ItJPqdjm5gbvfg
-owner=421210436646731776
+token=NTE0NDU0Nzc4MjEwNjgwODMy.DtWzBg.X9oViPdQR8RS6jTVRxyax72c8hg
+owner=381307755077566465
 prefix=1
 game=Tybe 1help
 stayinchannel=true
